@@ -2,7 +2,7 @@
 - A Python programmer looking for research projects
 - Interested in machine learning and algorithm
 - Don't use emoji/Symbol because a unicode can't express emotions
-Is this basically laughing? (U+1F602)
+;Is this basically laughing? (U+1F602)
 
 
 
